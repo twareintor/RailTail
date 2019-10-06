@@ -1,0 +1,110 @@
+# depslib dependency file v1.0
+1391953637 source:d:\projects.014\railtrail.014\railtrail\main.cpp
+	<windows.h>
+	<commctrl.h>
+	<stdio.h>
+	"resource.h"
+
+1391953931 d:\projects.014\railtrail.014\railtrail\resource.h
+
+1391953899 source:d:\projects.014\railtrail.014\railtrail\resource.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+
+1391953899 source:d:\projects.014\railsail.015\railtrail\resource.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+
+1391953931 d:\projects.014\railsail.015\railtrail\resource.h
+
+1391974271 source:d:\projects.014\railsail.015\railtrail\main.cpp
+	<windows.h>
+	<commctrl.h>
+	<stdio.h>
+	"resource.h"
+
+1391987971 source:d:\projects.014\railtail.015\railtail\main.cpp
+	<windows.h>
+	<commctrl.h>
+	<stdio.h>
+	"resource.h"
+
+1391953931 d:\projects.014\railtail.015\railtail\resource.h
+
+1391953899 source:d:\projects.014\railtail.015\railtail\resource.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+
+1392762255 source:d:\projects.014\railtail.016\railtail\main.cpp
+	<windows.h>
+	<commctrl.h>
+	<stdio.h>
+	"resource.h"
+	"railtrail.h"
+
+1392122230 d:\projects.014\railtail.016\railtail\resource.h
+
+1392122540 source:d:\projects.014\railtail.016\railtail\resource.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+
+1392761328 d:\projects.014\railtail.016\railtail\railtrail.h
+
+1392122540 source:d:\projs.014\railtail\railtail.017\railtail\resource.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+
+1392122230 d:\projs.014\railtail\railtail.017\railtail\resource.h
+
+1393153029 source:d:\projects.014\railtail\railtail.017\railtail\resource.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+
+1392122230 d:\projects.014\railtail\railtail.017\railtail\resource.h
+
+1393456761 source:d:\projects.014\railtail\railtail.017\railtail\main.cpp
+	<windows.h>
+	<commctrl.h>
+	<stdio.h>
+	"resource.h"
+	"railtrail.h"
+
+1393454617 d:\projects.014\railtail\railtail.017\railtail\railtrail.h
+
+1393153029 source:d:\projects.014\railtail\railtail.018 (checked-out)\railtail\resource.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+
+1392122230 d:\projects.014\railtail\railtail.018 (checked-out)\railtail\resource.h
+
+1393156629 source:d:\projects.014\railtail(cki)\railtail.019\railtail\resource.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+
+1392125830 d:\projects.014\railtail(cki)\railtail.019\railtail\resource.h
+
+1393674253 source:d:\projects.014\railtail(cki)\railtail.019\railtail\main.cpp
+	<windows.h>
+	<commctrl.h>
+	<stdio.h>
+	"resource.h"
+	"railtrail.h"
+
+1393458217 d:\projects.014\railtail(cki)\railtail.019\railtail\railtrail.h
+
